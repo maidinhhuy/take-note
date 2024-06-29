@@ -1,0 +1,1 @@
+- [x] Design farm table schema ⏫ ✅ 2024-06-29
